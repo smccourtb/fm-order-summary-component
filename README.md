@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [GitHub Pages](https://smccourtb.github.io/fm-order-summary-component/)
 
 ## My process
 
